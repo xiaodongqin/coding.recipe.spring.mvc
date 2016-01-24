@@ -14,7 +14,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>RecipeRecommender</servlet-name>
-        <url-pattern>/welcome.jsp</url-pattern>
+        <url-pattern>/jsp/welcome.jsp</url-pattern>
         <url-pattern>/welcome.html</url-pattern>
         <url-pattern>*.html</url-pattern>
     </servlet-mapping>

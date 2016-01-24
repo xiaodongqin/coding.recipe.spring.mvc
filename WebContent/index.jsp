@@ -15,7 +15,7 @@ body {
 			What do you crave?<br> <br>
 		</h2>
 		<h3>
-			<a href="/welcome.jsp"> Find fun recipes .. </a>
+			<a href="/jsp/welcome.jsp"> Find fun recipes .. </a>
 		</h3>
 	</div>
 </body>
